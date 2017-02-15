@@ -5,12 +5,12 @@ body {
   display: grid;
   grid-gap: 10px;
   grid-template-columns:200px 200px 200px;
-  background-color: blue
-  color: red
+  background-color: blue;
+  color: red;
 }  
 .box {
-  background-color:blue
-  color: red
+  background-color:blue;
+  color: red;
   border-radius: 5px;
   padding: 20px;
   font-size: 150%;
