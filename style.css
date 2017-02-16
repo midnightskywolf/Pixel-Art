@@ -1,15 +1,15 @@
-body {background color: grey;
+body {background color: gray;
   margin: 40px;
   }
 .wrapper {
   display: grid;
   grid-gap: 10px;
   grid-template-columns:200px 200px 200px;
-  background-color: blue;
+  background-color: gray;
   color: red;
 }  
 .box {
-  background-color:blue;
+  background-color:gray;
   color: red;
   border-radius: 5px;
   padding: 20px;
